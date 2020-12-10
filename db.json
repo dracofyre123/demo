@@ -4,16 +4,18 @@
             "id": 2,
             "galleries": [
                 {
-                    "id": 1,
+                    "id": 3,
                     "name": "Custom",
                     "editable": true,
-                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
+                    "numberOfImages": 10
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "name": "PixRank",
                     "editable": false,
-                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
+                    "numberOfImages": 10
                 }
             ]
         },
@@ -21,22 +23,127 @@
             "id": 1,
             "galleries": [
                 {
-                    "id": 1,
+                    "id": 5,
                     "name": "Custom",
                     "editable": true,
-                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
+                    "numberOfImages": 10
                 },
                 {
-                    "id": 2,
+                    "id": 6,
                     "name": "PixRank",
                     "editable": false,
-                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
+                    "numberOfImages": 10
                 }
             ]
         }
     ],
-    "gallery": {
-        "id": 1,
+    "gallery": [
+        {
+        "id": 3,
+        "name": "Custom",
+        "editable": true,
+        "images": [
+            {
+                "id": 1234,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 32,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 53,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Custom",
+        "editable": true,
+        "images": [
+            {
+                "id": 1234,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 32,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 53,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Custom",
+        "editable": true,
+        "images": [
+            {
+                "id": 1234,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 32,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 53,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
         "name": "Custom",
         "editable": true,
         "images": [
@@ -69,4 +176,5 @@
             }
         ]
     }
+    ]
 }
