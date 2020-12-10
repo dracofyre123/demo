@@ -1,21 +1,40 @@
 {
-    "hotel": {
-        "id": 2,
-        "galleries:": [
-            {
-                "id": 1,
-                "name": "Custom",
-                "editable": true,
-                "img": "https://this.is.image"
-            },
-            {
-                "id": 2,
-                "name": "PixRank",
-                "editable": false,
-                "url": "https://this.is.image"
-            }
-        ]
-    },
+    "hotels": [
+        {
+            "id": 2,
+            "galleries:": [
+                {
+                    "id": 1,
+                    "name": "Custom",
+                    "editable": true,
+                    "img": "https://this.is.image"
+                },
+                {
+                    "id": 2,
+                    "name": "PixRank",
+                    "editable": false,
+                    "url": "https://this.is.image"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "galleries:": [
+                {
+                    "id": 1,
+                    "name": "Custom",
+                    "editable": true,
+                    "img": "https://this.is.image"
+                },
+                {
+                    "id": 2,
+                    "name": "PixRank",
+                    "editable": false,
+                    "url": "https://this.is.image"
+                }
+            ]
+        }
+    ],
     "gallery": {
         "id": 1,
         "name": "Custom",
