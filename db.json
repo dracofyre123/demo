@@ -2,7 +2,7 @@
     "hotel": [
         {
             "id": 2,
-            "galleries:": [
+            "galleries": [
                 {
                     "id": 1,
                     "name": "Custom",
@@ -19,7 +19,7 @@
         },
         {
             "id": 1,
-            "galleries:": [
+            "galleries": [
                 {
                     "id": 1,
                     "name": "Custom",
