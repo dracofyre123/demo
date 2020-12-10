@@ -1,7 +1,53 @@
 {
-  "user": {
-    "id": 1,
-    "firstName": "John",
-    "lastName": "MyCoolLastName"
-  }
+    "hotel": {
+        "id": 1,
+        "galleries:": [
+            {
+                "id": 1,
+                "name": "Custom",
+                "editable": true,
+                "img": "https://this.is.image"
+            },
+            {
+                "id": 2,
+                "name": "PixRank",
+                "editable": false,
+                "url": "https://this.is.image"
+            }
+        ]
+    },
+    "gallery": {
+        "id": 1,
+        "name": "Custom",
+        "editable": true,
+        "images": [
+            {
+                "id": 1234,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 32,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            },
+            {
+                "id": 53,
+                "url": "http://thisisurl",
+                "width": 500,
+                "height": 300,
+                "tag": 2,
+                "tagString": "building",
+                "sid": 1
+            }
+        ]
+    }
 }
