@@ -7,13 +7,13 @@
                     "id": 1,
                     "name": "Custom",
                     "editable": true,
-                    "img": "https://this.is.image"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
                 },
                 {
                     "id": 2,
                     "name": "PixRank",
                     "editable": false,
-                    "url": "https://this.is.image"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
                 }
             ]
         },
@@ -24,13 +24,13 @@
                     "id": 1,
                     "name": "Custom",
                     "editable": true,
-                    "img": "https://this.is.image"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
                 },
                 {
                     "id": 2,
                     "name": "PixRank",
                     "editable": false,
-                    "url": "https://this.is.image"
+                    "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg"
                 }
             ]
         }
