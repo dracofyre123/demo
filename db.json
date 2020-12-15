@@ -5,7 +5,7 @@
             "galleries": [
                 {
                     "id": 3,
-                    "hotelId", 1,
+                    "hotelId": 1,
                     "name": "Custom",
                     "editable": true,
                     "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
@@ -13,7 +13,7 @@
                 },
                 {
                     "id": 4,
-                    "hotelId", 1,
+                    "hotelId": 1,
                     "name": "PixRank",
                     "editable": false,
                     "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
@@ -26,7 +26,7 @@
             "galleries": [
                 {
                     "id": 5,
-                    "hotelId", 1,
+                    "hotelId": 1,
                     "name": "Custom",
                     "editable": true,
                     "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
@@ -34,7 +34,7 @@
                 },
                 {
                     "id": 6,
-                    "hotelId", 1,                    
+                    "hotelId": 1,                    
                     "name": "PixRank",
                     "editable": false,
                     "img": "https://www.kayak.com/rimg/himg/68/b7/1b/arbisoftimages-1-Hotel_Torbraeu_0716_146_3_940px-image.jpg",
